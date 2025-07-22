@@ -27,12 +27,6 @@ This project predicts the estimated delivery time (in hours) for e-commerce orde
 - Deploy with Streamlit or Flask
 - Add real-time traffic/weather APIs
 
-## 📁 Files
-- `delivery_time_prediction.ipynb` – Jupyter notebook with full code
-- `delivery_data.csv` – Dataset used
-
 ---
 
-**Author**: [Your Name]  
-**Tech Stack**: Python, Pandas, Sklearn, Matplotlib, Seaborn
 
